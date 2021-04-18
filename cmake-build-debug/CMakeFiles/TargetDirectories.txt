@@ -1,0 +1,3 @@
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/cmake-build-debug/CMakeFiles/Practice_First_Test.dir
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
