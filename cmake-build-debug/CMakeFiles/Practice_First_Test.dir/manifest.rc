@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/cmake-build-debug/CMakeFiles/Practice_First_Test.dir/embed.manifest"
