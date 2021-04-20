@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Practice_First_Test.dir/Sectors.cpp.obj"
+  "CMakeFiles/Practice_First_Test.dir/SuperEDA.cpp.obj"
+  "CMakeFiles/Practice_First_Test.dir/ficheiros.cpp.obj"
   "CMakeFiles/Practice_First_Test.dir/main.cpp.obj"
   "Practice_First_Test.exe"
   "Practice_First_Test.exe.manifest"

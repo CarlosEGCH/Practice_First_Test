@@ -127,6 +127,87 @@ Practice_First_Test\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\build
 .PHONY : Practice_First_Test\fast
 
+Sectors.obj: Sectors.cpp.obj
+
+.PHONY : Sectors.obj
+
+# target to build an object file
+Sectors.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\Sectors.cpp.obj
+.PHONY : Sectors.cpp.obj
+
+Sectors.i: Sectors.cpp.i
+
+.PHONY : Sectors.i
+
+# target to preprocess a source file
+Sectors.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\Sectors.cpp.i
+.PHONY : Sectors.cpp.i
+
+Sectors.s: Sectors.cpp.s
+
+.PHONY : Sectors.s
+
+# target to generate assembly for a file
+Sectors.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\Sectors.cpp.s
+.PHONY : Sectors.cpp.s
+
+SuperEDA.obj: SuperEDA.cpp.obj
+
+.PHONY : SuperEDA.obj
+
+# target to build an object file
+SuperEDA.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\SuperEDA.cpp.obj
+.PHONY : SuperEDA.cpp.obj
+
+SuperEDA.i: SuperEDA.cpp.i
+
+.PHONY : SuperEDA.i
+
+# target to preprocess a source file
+SuperEDA.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\SuperEDA.cpp.i
+.PHONY : SuperEDA.cpp.i
+
+SuperEDA.s: SuperEDA.cpp.s
+
+.PHONY : SuperEDA.s
+
+# target to generate assembly for a file
+SuperEDA.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\SuperEDA.cpp.s
+.PHONY : SuperEDA.cpp.s
+
+ficheiros.obj: ficheiros.cpp.obj
+
+.PHONY : ficheiros.obj
+
+# target to build an object file
+ficheiros.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\ficheiros.cpp.obj
+.PHONY : ficheiros.cpp.obj
+
+ficheiros.i: ficheiros.cpp.i
+
+.PHONY : ficheiros.i
+
+# target to preprocess a source file
+ficheiros.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\ficheiros.cpp.i
+.PHONY : ficheiros.cpp.i
+
+ficheiros.s: ficheiros.cpp.s
+
+.PHONY : ficheiros.s
+
+# target to generate assembly for a file
+ficheiros.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\ficheiros.cpp.s
+.PHONY : ficheiros.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -163,6 +244,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Practice_First_Test
+	@echo ... Sectors.obj
+	@echo ... Sectors.i
+	@echo ... Sectors.s
+	@echo ... SuperEDA.obj
+	@echo ... SuperEDA.i
+	@echo ... SuperEDA.s
+	@echo ... ficheiros.obj
+	@echo ... ficheiros.i
+	@echo ... ficheiros.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

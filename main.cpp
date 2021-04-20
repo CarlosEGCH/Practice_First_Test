@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "ficheiros.h"
 
 //Day 2
 
@@ -145,6 +146,9 @@ std::string uncensor(std::string str, std::string vowels) {
     }
     return str;
 }
+
+
+#include "ficheiros.h"
 
 
 

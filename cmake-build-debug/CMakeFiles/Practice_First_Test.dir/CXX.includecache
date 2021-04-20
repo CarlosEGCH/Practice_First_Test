@@ -6,9 +6,25 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+ctime
+-
+ficheiros.h
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h
+
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h
+
 C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/main.cpp
 iostream
 -
 string
 -
+ficheiros.h
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h
 
