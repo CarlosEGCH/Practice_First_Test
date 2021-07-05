@@ -6,25 +6,27 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.cpp
-iostream
--
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/Sectors.h
 string
--
-cstdlib
--
-ctime
 -
 ficheiros.h
 C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h
 
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/SuperEDA.h
+Sectors.h
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/Sectors.h
+ficheiros.h
 C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h
+
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h
+string
+-
 
 C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/main.cpp
 iostream
 -
 string
 -
-ficheiros.h
-C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h
+SuperEDA.h
+C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/SuperEDA.h
 

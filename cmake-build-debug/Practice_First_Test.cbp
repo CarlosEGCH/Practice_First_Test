@@ -102,6 +102,12 @@
 		<Unit filename="C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/ficheiros.h">
 			<Option target="Practice_First_Test"/>
 		</Unit>
+		<Unit filename="C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/leitura_ficheiros.cpp">
+			<Option target="Practice_First_Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/leitura_ficheiros.h">
+			<Option target="Practice_First_Test"/>
+		</Unit>
 		<Unit filename="C:/Users/Carlo/OneDrive/Documentos/EDA/C++/Practice_First_Test/main.cpp">
 			<Option target="Practice_First_Test"/>
 		</Unit>

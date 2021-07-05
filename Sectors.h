@@ -14,9 +14,6 @@ struct Sector{
     float income;
 };
 
-Sector* Initialize_Sectors(int MAX_SECTORS, std::string* areas, int MAX_AREAS);
-
-
-
+Sector* Initialize_Sectors(int& MAX_SECTORS, std::string* areas, int MAX_AREAS);
 
 #endif //PRACTICE_FIRST_TEST_SECTORS_H

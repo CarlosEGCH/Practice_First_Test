@@ -1,11 +1,10 @@
 #include <iostream>
 #include <string>
-#include "ficheiros.h"
 
 //Day 2
 
 //Calculate the area of any rectangle given it's height and width
-
+/*
 
 float rectangle(float height, float width){
     return height*width;
@@ -93,6 +92,7 @@ void addItemQueue(Queue& q,Queue::Item* item){
     }
 }
 
+
 void deleteItemQueue(Queue& q){
     if(q.Qstart->next == nullptr){
         delete q.Qstart->next;
@@ -146,13 +146,33 @@ std::string uncensor(std::string str, std::string vowels) {
     }
     return str;
 }
+*/
+
+//Funcion para calcular el numero de pasajeros restantes de una parada (capacidad del bus es 50 pasajeros)
+
+int parada(int personas_en_la_parada){
+    if(personas_en_la_parada >= 50){
+        personas_en_la_parada = personas_en_la_parada - 50;
+    }
+    else{
+        std::cout << "El numero de personas que el ultimo autobus llevara es: ";
+        return personas_en_la_parada;
+    }
+}
 
 
-#include "ficheiros.h"
 
 
 
-int main(){
 
-    return 0;
+#include "SuperEDA.h"
+
+int main(int personas_en_la_parada){
+    if(personas_en_la_parada >= 50){
+        personas_en_la_parada = personas_en_la_parada - 50;
+    }
+    else{
+        std::cout << "El numero de personas que el ultimo autobus llevara es: ";
+        return personas_en_la_parada;
+    }
 }

@@ -208,6 +208,33 @@ ficheiros.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\ficheiros.cpp.s
 .PHONY : ficheiros.cpp.s
 
+leitura_ficheiros.obj: leitura_ficheiros.cpp.obj
+
+.PHONY : leitura_ficheiros.obj
+
+# target to build an object file
+leitura_ficheiros.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\leitura_ficheiros.cpp.obj
+.PHONY : leitura_ficheiros.cpp.obj
+
+leitura_ficheiros.i: leitura_ficheiros.cpp.i
+
+.PHONY : leitura_ficheiros.i
+
+# target to preprocess a source file
+leitura_ficheiros.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\leitura_ficheiros.cpp.i
+.PHONY : leitura_ficheiros.cpp.i
+
+leitura_ficheiros.s: leitura_ficheiros.cpp.s
+
+.PHONY : leitura_ficheiros.s
+
+# target to generate assembly for a file
+leitura_ficheiros.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Practice_First_Test.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Practice_First_Test.dir\leitura_ficheiros.cpp.s
+.PHONY : leitura_ficheiros.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -253,6 +280,9 @@ help:
 	@echo ... ficheiros.obj
 	@echo ... ficheiros.i
 	@echo ... ficheiros.s
+	@echo ... leitura_ficheiros.obj
+	@echo ... leitura_ficheiros.i
+	@echo ... leitura_ficheiros.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
